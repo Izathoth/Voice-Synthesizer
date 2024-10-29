@@ -1,0 +1,5 @@
+from .analise_audio import AnalisadorAudio
+from .geracao_voz import SintetizadorVoz
+from .treinamento_modelo import TreinadorModeloVoz
+from .configuracao_sintese import ConfiguracaoSintese
+from .pre_processamento import PreProcessadorAudio
